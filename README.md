@@ -1,2 +1,2 @@
-# Payment-Donation
-The Sparks Foundation Donation Website comprising of Payment Gateway Integration for Donating specific amount of Money directly to the Foundation.
+# Payment_gateway_integration
+website using html and css for the task given by The Sparks Foundation
